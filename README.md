@@ -53,8 +53,10 @@ Conversion notes:
 ![image](https://user-images.githubusercontent.com/70998859/138616123-f241a26b-d1a8-44a4-bb32-55deac840fc3.png)
 ![image](https://user-images.githubusercontent.com/70998859/138616220-b6554f4a-829c-4f7a-a902-83899e01e4f1.png)
 22. Просмотреть историю коммитов
-23. Добавить несколько коммитов произвольного содержимого
-24. Создать пулл реквест в данный репозиторий
+![image](https://user-images.githubusercontent.com/70998859/138616743-8e8889a8-e871-43e8-9149-2023c20f000a.png)
+24. Добавить несколько коммитов произвольного содержимого
+![image](https://user-images.githubusercontent.com/70998859/138616822-161d513a-22be-480d-9f9e-2d467b4122f4.png)
+26. Создать пулл реквест в данный репозиторий
 
 
 ### Контрольные вопросы
