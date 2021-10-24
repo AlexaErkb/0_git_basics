@@ -51,6 +51,7 @@ Conversion notes:
 ![image](https://user-images.githubusercontent.com/70998859/138616003-4342f55e-7d56-4b16-9d2c-0e9222583bc2.png)
 20. Откатываем до последней рабочей версии
 ![image](https://user-images.githubusercontent.com/70998859/138616123-f241a26b-d1a8-44a4-bb32-55deac840fc3.png)
+![image](https://user-images.githubusercontent.com/70998859/138616220-b6554f4a-829c-4f7a-a902-83899e01e4f1.png)
 22. Просмотреть историю коммитов
 23. Добавить несколько коммитов произвольного содержимого
 24. Создать пулл реквест в данный репозиторий
