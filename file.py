@@ -4,4 +4,7 @@
 
 Это временный скриптовый файл.
 """
+import datetime
+
 print("Hello")
+print(datetime.datetime.now())
